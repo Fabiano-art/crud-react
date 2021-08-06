@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fabiano Guimarães",
+      "email": "fabiano@emailtest.com"
+    },
+    {
+      "id": 2,
+      "name": "Regiane Guimarães",
+      "email": "regiane@emailtest.com"
+    },
+    {
+      "id": "3",
+      "name": "Miguel Guimarães",
+      "email": "miguel@emailtest.ccom"
+    }
+  ]
+}
