@@ -1,0 +1,23 @@
+header.header {
+    background-color: #fff;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    white-space: nowrap;
+
+    justify-content: space-evenly
+}
+
+p {
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+.mt-3 {
+    margin-top: 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.1em;
+}

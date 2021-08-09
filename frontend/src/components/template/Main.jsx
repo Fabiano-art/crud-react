@@ -5,10 +5,10 @@ import React from 'react';
 export default function main(props){
     return (
         <React.Fragment>
-        <Header />
-        <div className="content">
+        <Header {...props}/>
+        <main className="content">
             main
-        </div>
+        </main>
     </React.Fragment>
     )
 }

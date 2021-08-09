@@ -1,0 +1,9 @@
+aside.logo img {
+    width: 100%;
+}
+
+aside.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
