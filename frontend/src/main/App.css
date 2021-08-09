@@ -22,7 +22,7 @@
     grid-template-areas: 
         "logo header"
         "menu content"
-        "menu footer";
+        "footer footer";
 
     height: 100vh;
     background-color: rgb(223, 223, 223);
