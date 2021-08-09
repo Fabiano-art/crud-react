@@ -6,7 +6,7 @@ import React from 'react';
 
 import Logo from '../components/template/Logo'
 import Nav from '../components/template/Nav'
-import Main from '../components/template/Main'
+import Home from '../components/Home/Home'
 import Footer from '../components/template/Footer'
 
 export default function app(props){
@@ -14,7 +14,7 @@ export default function app(props){
         <div className="app">
             <Logo />
             <Nav />
-            <Main icon="home" title="beginning" subtitle="Segundo projeto de react"/>
+            <Home />
             <Footer />
         </div>
     )
